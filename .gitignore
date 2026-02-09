@@ -1,5 +1,5 @@
 # APK Files - Don't commit large binary files to git
-*.apk
+# *.apk
 
 # Temporary files
 *.tmp
