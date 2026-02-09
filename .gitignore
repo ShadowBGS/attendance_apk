@@ -1,0 +1,30 @@
+# APK Files - Don't commit large binary files to git
+*.apk
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+git add README.md
+>> git commit -m "first commit"git add README.md
+>> git commit -m "first commit"
